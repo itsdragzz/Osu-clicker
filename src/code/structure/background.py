@@ -3,7 +3,6 @@ import pygame
 
 
 
-
 def open_bg(screen_width, screen_height):
 
     screen = pygame.display.set_mode((screen_width, screen_height))
