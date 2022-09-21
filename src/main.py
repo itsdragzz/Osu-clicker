@@ -3,7 +3,7 @@ import sys
 
 
 
-import src.code.__init__ as init 
+import code.event_manager as init 
 
 
 def run():
